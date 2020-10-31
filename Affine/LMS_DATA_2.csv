@@ -1,0 +1,194 @@
+Country_Name,Continent_Name,Wine color
+Afghanistan,AS,Red
+Albania,EU,Brown
+Algeria,AF,Blistering
+Andorra,EU,Blue
+Angola,AF,Ocean blue
+Antigua & Barbuda,,Red
+Argentina,SA,Brown
+Armenia,EU,Blistering
+Australia,OC,Blue
+Austria,EU,Ocean blue
+Azerbaijan,EU,Red
+Bahamas,,Brown
+Bahrain,AS,Blistering
+Bangladesh,AS,Blue
+Barbados,,Ocean blue
+Belarus,EU,Red
+Belgium,EU,Brown
+Belize,,Blistering
+Benin,AF,Blue
+Bhutan,AS,Ocean blue
+Bolivia,SA,Red
+Bosnia-Herzegovina,EU,Brown
+Botswana,AF,Blistering
+Brazil,SA,Blue
+Brunei,AS,Ocean blue
+Bulgaria,EU,Red
+Burkina Faso,AF,Brown
+Burundi,AF,Blistering
+Cote d'Ivoire,AF,Blue
+Cabo Verde,AF,Ocean blue
+Cambodia,AS,Red
+Cameroon,AF,Brown
+Canada,,Blistering
+Central African Republic,AF,Blue
+Chad,AF,Ocean blue
+Chile,SA,Red
+China,AS,Brown
+Colombia,SA,Blistering
+Comoros,AF,Blue
+Congo,AF,Ocean blue
+Cook Islands,OC,Red
+Costa Rica,,Brown
+Croatia,EU,Blistering
+Cuba,,Blue
+Cyprus,EU,Ocean blue
+Czech Republic,EU,Red
+North Korea,AS,Brown
+DR Congo,AF,Blistering
+Denmark,EU,Blue
+Djibouti,AF,Ocean blue
+Dominica,,Red
+Dominican Republic,,Brown
+Ecuador,SA,Blistering
+Egypt,AF,Blue
+El Salvador,,Ocean blue
+Equatorial Guinea,AF,Red
+Eritrea,AF,Brown
+Estonia,EU,Blistering
+Ethiopia,AF,Blue
+Fiji,OC,Ocean blue
+Finland,EU,Red
+France,EU,Brown
+Gabon,AF,Blistering
+Gambia,AF,Blue
+Georgia,EU,Ocean blue
+Germany,EU,Red
+Ghana,AF,Brown
+Greece,EU,Blistering
+Grenada,,Blue
+Guatemala,,Ocean blue
+Guinea,AF,Red
+Guinea-Bissau,AF,Brown
+Guyana,SA,Blistering
+Haiti,,Blue
+Honduras,,Ocean blue
+Hungary,EU,Red
+Iceland,EU,Brown
+India,AS,Blistering
+Indonesia,AS,Blue
+Iran,AS,Ocean blue
+Iraq,AS,Red
+Ireland,EU,Brown
+Israel,AS,Blistering
+Italy,EU,Blue
+Jamaica,,Ocean blue
+Japan,AS,Red
+Jordan,AS,Brown
+Kazakhstan,AS,Blistering
+Kenya,AF,Blue
+Kiribati,OC,Ocean blue
+Kuwait,AS,Red
+Kyrgyzstan,AS,Brown
+Laos,AS,Blistering
+Latvia,EU,Blue
+Lebanon,AS,Ocean blue
+Lesotho,AF,Red
+Liberia,AF,Brown
+Libya,AF,Blistering
+Lithuania,EU,Blue
+Luxembourg,EU,Ocean blue
+Madagascar,AF,Red
+Malawi,AF,Brown
+Malaysia,AS,Blistering
+Maldives,AS,Blue
+Mali,AF,Ocean blue
+Malta,EU,Red
+Marshall Islands,OC,Brown
+Mauritania,AF,Blistering
+Mauritius,AF,Blue
+Mexico,,Ocean blue
+Micronesia,OC,Red
+Monaco,EU,Brown
+Mongolia,AS,Blistering
+Montenegro,EU,Blue
+Morocco,AF,Ocean blue
+Mozambique,AF,Red
+Myanmar,AS,Brown
+Namibia,AF,Blistering
+Nauru,OC,Blue
+Nepal,AS,Ocean blue
+Netherlands,EU,Red
+New Zealand,OC,Brown
+Nicaragua,,Blistering
+Niger,AF,Blue
+Nigeria,AF,Ocean blue
+Niue,OC,Red
+Norway,EU,Brown
+Oman,AS,Blistering
+Pakistan,AS,Blue
+Palau,OC,Red
+Panama,,Brown
+Papua New Guinea,OC,Blistering
+Paraguay,SA,Blue
+Peru,SA,Ocean blue
+Philippines,AS,Red
+Poland,EU,Brown
+Portugal,EU,Blistering
+Qatar,AS,Blue
+South Korea,AS,Ocean blue
+Moldova,EU,Red
+Romania,EU,Brown
+Russian Federation,AS,Blistering
+Rwanda,AF,Blue
+St. Kitts & Nevis,,Ocean blue
+St. Lucia,,Red
+St. Vincent & the Grenadines,,Brown
+Samoa,OC,Blistering
+San Marino,EU,Blue
+Sao Tome & Principe,AF,Ocean blue
+Saudi Arabia,AS,Red
+Senegal,AF,Brown
+Serbia,EU,Blistering
+Seychelles,AF,Blue
+Sierra Leone,AF,Ocean blue
+Singapore,AS,Red
+Slovakia,EU,Brown
+Slovenia,EU,Blistering
+Solomon Islands,OC,Blue
+Somalia,AF,Ocean blue
+South Africa,AF,Red
+Spain,EU,Brown
+Sri Lanka,AS,Blistering
+Sudan,AF,Blue
+Suriname,SA,Ocean blue
+Swaziland,AF,Red
+Sweden,EU,Brown
+Switzerland,EU,Blistering
+Syria,AS,Blue
+Tajikistan,AS,Ocean blue
+Thailand,AS,Red
+Macedonia,EU,Brown
+Timor-Leste,AS,Blistering
+Togo,AF,Blue
+Tonga,OC,Ocean blue
+Trinidad & Tobago,,Red
+Tunisia,AF,Brown
+Turkey,AS,Blistering
+Turkmenistan,AS,Blue
+Tuvalu,OC,Ocean blue
+Uganda,AF,Red
+Ukraine,EU,Brown
+United Arab Emirates,AS,Blistering
+United Kingdom,EU,Blue
+Tanzania,AF,Ocean blue
+USA,,Red
+Uruguay,SA,Brown
+Uzbekistan,AS,Blistering
+Vanuatu,OC,Blue
+Venezuela,SA,Ocean blue
+Vietnam,AS,Red
+Yemen,AS,Brown
+Zambia,AF,Blistering
+Zimbabwe,AF,Blue
