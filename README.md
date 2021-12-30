@@ -13,7 +13,7 @@
 
 # Inappropriate Question Classifier-API
 
-The Inappropriate question API aims to identify questions that are asked intent of having insincere perpespective. Classifier identifies questions that having toxic and divisive content.API helps to keep online trolls at bay by keeping web content adheres policy of "Be Nice & Respectful"
+The Inappropriate question API aims to identify questions that are asked with intent of having insincere perpespective. Classifier identifies questions that are having toxic and divisive content. API helps to keep online trolls at bay by keeping web content adheres policy of "Be Nice & Respectful"
 
 ### Sample Use Cases
 
@@ -34,20 +34,35 @@ API can flag inappropriate content in:
   <img src="https://github.com/DSPOWER93/Data/blob/main/deployment%20flow.png" alt="Sublime's custom image"/>
 </p>
 
-**Brief Summary**:
+### **Flow**: 
+➤➤Client Sends data using /POST command to AWS HTTP Gateway rest API.
 
-## Model Comparison
+➤➤ AWS HTTP gateway Rest API triggers AWS Lambda Python Instance to spin up the instance.
+       
+➤➤AWS Lambda Instance runs the python handler and access Elastic File system to get Python Packages & model Artifacts to handler.
 
-<p align="center">
-  <img src="https://github.com/DSPOWER93/artifacts/blob/main/Model%20Comparison.png" alt="Sublime's custom image"/>
-</p>
-
+➤➤Handler sends reponse to post request with results through HTTP gateway back to client.
 
 ## Model Visuals
 
 <p align="center">
   <img src="https://github.com/DSPOWER93/artifacts/blob/main/Model_vis.png" alt="Sublime's custom image"/>
 </p>
+
+## Shortlisted Models
+
+<p align="center">
+  <img src="https://github.com/DSPOWER93/artifacts/blob/main/model_comparison.png" alt="Sublime's custom image"/>
+</p>
+
+Out of the two NLP models, Hybrid Bi-LSTM model was finalized as it met following criteria: 
+
+Computationally in-expensive:
+Speed:
+
+### R
+
+-- 
 
 
 <!--<div style="text-align:center"><img src="https://github.com/DSPOWER93/Data/blob/main/Deployment%20Process%20Flow.png" /></div> -->
