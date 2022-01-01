@@ -131,7 +131,7 @@ Model Inferencing would result same at localhost, just Invoke Url would local ho
 - **Why Hybrid Model was selected compared to normal Bi-LSTM Model?**<br />
 
 The conclusion to reach on Hy-brid model was after many multiple attempts and hyper tuning to nlp models. Though Simple Bi-LSTM had resulted good outputs but to hypertuning with additional layers has improvised AUC better, I had used conv1D in addition to following reasons:<br />
-➤ Conv1D reduces the dimentionality of data which helps in reducing noise.<br />
+➤ As Conv1D helps in retaining sequential information between the words better, conv1D comes as a good choice.<br />
 ➤ Adding multiple conv1D channels helps model understanding data from multiple perspective, these channels are working as multiple variables to model without having collinearity. The enlightenment to use this technique was taken from following article kaggle first poistion by Psi [Kaggle Article](https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80568).
 
 - **Why is AWS Lambda selected to deploy API instead of other AWS infrastructure?**<br />
@@ -157,7 +157,8 @@ Pre-trained word Embedding would come to rescue here. Model has built dependency
 ## About me 
 
 I am Mohammed working as Sr. Business Analyst @ Affine.ai. I am presently working Egaming Industry, delivering end to end Machine Learning projects on clients requirement. 
-more about me @: [Mohammed](Gihub Profile Link)
+more about me on
+[![Mohammed](https://img.shields.io/badge/Github-white?style=flat&logo=github&labelColor=black)](https://github.com/DSPOWER93/)
 
 
 #### 👀 We can connect on <br/>
