@@ -149,13 +149,13 @@ There are two part in upgrading API:<br />
 
 Pre-trained word Embedding would come to rescue here. Model has built dependency pre-trained embedding **Glove**, embeddings would play major role in classifying unseen data. If performance of API drops, then model finetuning would be required.
 
-## Limitation of API infrastructure:
+## API infrastructure Limitations:
 
 - **Computation power:** The API is deployed on on Severless Lambda Instance which is designed to take low size request. If traffic to API Increases exponentially, then present API infrastructure would face challenges.<br />
 - **Rendering speed:** Lambda Instance is designed to spin instance of max 2GB RAM, which is not sufficient to deal with request coming in at extreme rate for e.g. 10000+ request at single instance.
 
 
-## About me 
+## About me
 
 I am Mohammed working as Sr. Business Analyst @ Affine.ai. I am presently working gaming Industry, delivering end to end Machine Learning projects based on clients requirement. 
 Github profile:
